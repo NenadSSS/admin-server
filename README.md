@@ -8,7 +8,7 @@ cd into project root folder and run:
 
 ```bash
 docker-compose up
-
+```
 
 Make sure you have the Hasura CLI installed for runnign DB scripts inside Hasura project
 For Mac:
