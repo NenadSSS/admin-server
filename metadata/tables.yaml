@@ -1,1 +1,9 @@
-[]
+- table:
+    schema: public
+    name: admins
+- table:
+    schema: public
+    name: categories
+- table:
+    schema: public
+    name: users
